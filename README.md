@@ -37,7 +37,7 @@ Smart Review simplifies the customer review process by providing a direct link t
 
 ## Live Demo
 
-[Live Demo](https://smart-review-gmaps.vercel.app)
+[Live Demo](https://smartreview-demo.vercel.app)
 
 ## Developer
 
